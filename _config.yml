@@ -12,13 +12,7 @@ people:
 - name: Malith Rukshan
   pic: 2
   position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
